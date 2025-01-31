@@ -8,10 +8,5 @@ This project contains SQL scripts for managing a video game parlour, including s
 - **Staff Records**: Maintain a list of employees working in the parlour.
 - **Booking & Payments**: Track customer bookings and payments for different sessions.
 
-## Database Schema
-- **`Session_Type`**: Defines types of sessions (e.g., Free, Special).
-- **`Sessions_and_Fees`**: Stores session details such as day, time, floor, and pricing.
-- **`Staff`**: (Expected) Holds staff-related information.
-
 ## Author
-- **[Your Name]**
+- **Sandesh Kandel**
